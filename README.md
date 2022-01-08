@@ -61,3 +61,4 @@
 			- ![elasticSearchLocalhostConfig](https://github.com/beobungbu/LEMP-7.4-for-magento-2.4.2/raw/main/elasticsearch.PNG)
 			- `sudo nano /etc/elasticsearch/elasticsearch.yml`
 
+ 6. Certbot (optional - if you gonna use let's encrypt SSL)

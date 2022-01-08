@@ -1,9 +1,9 @@
 # LEMP-7.4-for-magento-2.4.2-on-UBUNTU-20.04
 **VERY FIRST**
 
-	 1. `sudo apt update`
-	 2. `sudo apt install -y curl`
-	 3. `sudo apt -y install software-properties-common dirmngr apt-transport-https`
+	 1. sudo apt update
+	 2. sudo apt install -y curl
+	 3. sudo apt -y install software-properties-common dirmngr apt-transport-https
 		 
 **DEPENDENCY**
  1. **Nginx 1.8**

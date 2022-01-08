@@ -5,7 +5,7 @@
 	 2. `sudo apt install -y curl`
 	 3. `sudo apt -y install software-properties-common dirmngr apt-transport-https`
 		 
-**DEPEDENCY**
+**DEPENDENCY**
  1. **Nginx 1.8**
 	 -  `sudo apt-get -y install nginx=1.8`
 	 - `sudo systemctl enable nginx`

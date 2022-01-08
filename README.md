@@ -62,3 +62,5 @@
 			- `sudo nano /etc/elasticsearch/elasticsearch.yml`
 
  6. Certbot (optional - if you gonna use let's encrypt SSL)
+	 - **Install Certbot**
+	   - `sudo apt install certbot python3-certbot-nginx`

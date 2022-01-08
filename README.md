@@ -7,7 +7,7 @@
 		 
 **DEPENDENCY**
  1. **Nginx 1.8**
-	 -  `sudo apt-get -y install nginx=1.8`
+	 -  `sudo apt-get -y install nginx=1.8.1`
 	 - `sudo systemctl enable nginx`
 
  2. **PHP 7.4**
